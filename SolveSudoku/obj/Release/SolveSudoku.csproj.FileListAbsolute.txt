@@ -1,0 +1,8 @@
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\bin\Release\Solved Sudoku.exe.config
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\bin\Release\Solved Sudoku.exe
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\bin\Release\Solved Sudoku.pdb
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Release\SolveSudoku.SolveSudoku.resources
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Release\SolveSudoku.Properties.Resources.resources
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Release\SolveSudoku.csproj.GenerateResource.Cache
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Release\Solved Sudoku.exe
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Release\Solved Sudoku.pdb

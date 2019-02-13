@@ -1,0 +1,9 @@
+C:\Users\MON MINA\Documents\Visual Studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Debug\SolveSudoku.csprojResolveAssemblyReference.cache
+C:\Users\MON MINA\Documents\Visual Studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Debug\SolveSudoku.SolveSudoku.resources
+C:\Users\MON MINA\Documents\Visual Studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Debug\SolveSudoku.Properties.Resources.resources
+C:\Users\MON MINA\Documents\Visual Studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Debug\SolveSudoku.csproj.GenerateResource.Cache
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\bin\Debug\Solved Sudoku.exe.config
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\bin\Debug\Solved Sudoku.exe
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\bin\Debug\Solved Sudoku.pdb
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Debug\Solved Sudoku.exe
+C:\Users\MON MINA\documents\visual studio 2017\Projects\SolveSudoku\SolveSudoku\obj\Debug\Solved Sudoku.pdb
